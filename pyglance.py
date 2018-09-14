@@ -27,7 +27,6 @@ import matplotlib.pyplot as plt
 
 
 
-import pandas as pd
 @pd.api.extensions.register_dataframe_accessor("glance")
 class Glance( object ):
     '''
