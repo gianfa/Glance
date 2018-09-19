@@ -1,4 +1,5 @@
-# Glance
+# Glance [![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
+
 A slim Pandas extension for having a quick Glance at datasets.
 
 ## Why
