@@ -1,4 +1,6 @@
-# Glance [![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
+# Glance 
+[![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
+https://img.shields.io/badge/collaborators-0-orange.svg
 
 A slim Pandas extension for having a quick Glance at datasets.
 
