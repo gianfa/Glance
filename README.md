@@ -4,7 +4,7 @@ A slim Pandas extension for having a quick Glance at datasets.
 
 ## Why
 When you get a new dataset there are many first operation you do and, often, they are quite the same. For this reason I thought about writing this little module along the way, expanding such wonderful Pandas package.
-It allows to easily perform some starting operations such to scan your dataset fields looking for typical types.
+It allows to easily perform some starting operations like to scan your dataset fields looking for typical types.
 <br><br>
 scans fields to indentify:
 - [x] Emails
